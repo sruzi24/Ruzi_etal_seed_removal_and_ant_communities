@@ -1,0 +1,57 @@
+This Ruzi_etal_seed_removal_and_ant_communities_readme.txt file was generated on 2020-09-03 by Selina A. Ruzi.
+
+####<help text is included in angle brackets, and can be deleted before submission> -- should search for this and remove and helps to show what information still needs to be added
+
+GENERAL INFORMATION
+1. Title of Dataset: Ruzi_etal_seed_removal_and_ant_communities
+2. Author information
+a. Principal Investigator Contact Information
+i. Name: Selina A. Ruzi
+ii. Institution: North Carolina State University
+iii. Address: Department of Applied Ecology, North Carolina State University, 115 David Clark Labs, 100 Eugene Brooks Avenue, Raleigh, NC 27695
+iv. Email: sruzi24@gmail.com
+b. Associate or Co-investigator Contact Information:
+i. Name: Andrew V. Suarez
+ii. Institution: University of Illinois at Urbana-Champaign
+iii. Address: Department of Applied Evolution, Ecology, and Behavior, University of Illinois, 515 Morrill Hall, 505 South Goodwin Avenue, Urbana, IL 61801
+iv. Email: suarez2@illinois.edu
+3. Date of data collection (single date, range, approximate date): ####<suggested format YYYY-MM-DD>
+4. Geographic location of data collection: Barro Colorado Island, Panama
+5. Information about funding sources that supported the collection of the data: National Science Foundation (grants: 120205 to James W. Dalling, 1069157 to Andrew V. Suarez, 1701501 to Andrew V. Suarez and Selina A. Ruzi), Dissertation Travel Grant from the University of Illinois. 
+
+SHARING/ACCESS INFORMATION
+1. Licenses/restrictions placed on the data: ####<need to look into the creative commons, ie. use but need to cite this>
+2. Links to publications that cite or use the data: ####<will need to be added>
+3. Links to other publicly accessible locations of the data: ####<will need to link to the GitHub>
+4. Links/relationships to ancillary data sets: ####<need to figure this out>
+5. Was data derived from another source? no
+6. Recommended citation for this dataset: ####<need to figure that out>
+
+DATA & FILE OVERVIEW
+1. File List: ####<list all files (or folders, as appropriate for dataset organization) contained in the dataset, with a brief description>
+2. Relationship between files, if important: #### <need to add this>
+3. Additional related data collected that was not included in the current data package: ####<I think this is none for this publication at least but will need to check, unless we are talking about the information that was used in the first chapter>
+4. Are there multiple versions of the dataset? no
+a. If yes, names of file(s) that was updated:
+i. Why the file was updated?
+ii. When was the file updated? 
+
+METHODOLOGICAL INFORMATION
+1. Description of the methods used for collection/generation of data: ####<include links or references to publications or other documentation containing experimental design or protocols used in data collection -- for this would I just cite the Biotropica paper and Ruzi et al. 2017 for seed removal>
+2. Methods for processing the data: ####<describe how the submitted data were generated from the raw or collected data -- need to add this while cleaning up the R scripts>
+3. Instrument- or software-specific information needed to interpret the data: ####<include full name and version of software, and any necessary packages or libraries needed to run scripts>
+4. Standards and calibration information, if appropriate: ####<I think this is NA>
+5. Environmental/experimental conditions: ####<need to add info>
+6. Describe any quality-assurance procedures performed on the data: ####<need to add>
+7. People involved with sample collection, processing, analysis and/or submission: Selina A. Ruzi (SAR), Paul-Camilo Zalamea (PCZ), Daniel P. Roche (DPR), and Abigail C. Robison (ACR) were involved in sample collection. SAR, DPR, ACR, and Rafael Achury (RA) were involved in sample processing. SAR and RA were involved in data analysis. SAR is responsible for dataset submission to repository.
+
+DATA-SPECIFIC INFORMATION FOR: [FILENAME] ####<repeat this section for each dataset, folder or file, as appropriate>
+1. Number of variables: ####<need to put information here>
+2. Number of cases/rows: ####<need to put information here>
+3. Variable List: ####<list variable name(s), description(s), unit(s) and value labels as appropriate for each>
+4. Missing data codes: ####<list code/symbol and definition>
+5. Specialized formats or other abbreviations used: ####<need to add>
+
+
+
+
