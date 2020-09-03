@@ -22,7 +22,7 @@ iv. Email: suarez2@illinois.edu
 SHARING/ACCESS INFORMATION
 1. Licenses/restrictions placed on the data: ####<need to look into the creative commons, ie. use but need to cite this>
 2. Links to publications that cite or use the data: ####<will need to be added>
-3. Links to other publicly accessible locations of the data: ####<will need to link to the GitHub>
+3. Links to other publicly accessible locations of the data: ####<will need to link to the GitHub but will also need to make it public in order to do that>
 4. Links/relationships to ancillary data sets: ####<need to figure this out>
 5. Was data derived from another source? no
 6. Recommended citation for this dataset: ####<need to figure that out>
@@ -32,14 +32,16 @@ DATA & FILE OVERVIEW
 2. Relationship between files, if important: #### <need to add this>
 3. Additional related data collected that was not included in the current data package: ####<I think this is none for this publication at least but will need to check, unless we are talking about the information that was used in the first chapter>
 4. Are there multiple versions of the dataset? no
-a. If yes, names of file(s) that was updated:
-i. Why the file was updated?
-ii. When was the file updated? 
+a. If yes, names of file(s) that was updated: not applicable
+i. Why the file was updated? not applicable
+ii. When was the file updated? not applicable
 
 METHODOLOGICAL INFORMATION
 1. Description of the methods used for collection/generation of data: ####<include links or references to publications or other documentation containing experimental design or protocols used in data collection -- for this would I just cite the Biotropica paper and Ruzi et al. 2017 for seed removal>
 2. Methods for processing the data: ####<describe how the submitted data were generated from the raw or collected data -- need to add this while cleaning up the R scripts>
-3. Instrument- or software-specific information needed to interpret the data: ####<include full name and version of software, and any necessary packages or libraries needed to run scripts>
+3. Instrument- or software-specific information needed to interpret the data: 
+a. Software: RStudio (Version 1.2.5019), R (version 3.6.1, R Core Team 2019)
+b. Packages: iNext (version 2.0.19, Chao et al. 2014; Hsieh et al. 2016; Hsieh et al. 2019), SpadeR (version 0.1.1, Chao et al. 2016; installed from GitHub - install_github('AnneChao/SpadeR')), vegan (version 2.5-6, Oksanen et al. 2019), pls (version 2.7-2, Mevik et al. 2019), cluster (version 2.1.0, Maechler et al. 2019), ggplot2 (version 3.2.1, Wickham 2016), ggdendro (version 0.1-20, de Vries & Ripley 2016), dendextend (version 1.13.2, Galili 2015), tidyverse (version 1.3.0, Wickham et al. 2019), here (version 0.1, Müller 2017)
 4. Standards and calibration information, if appropriate: ####<I think this is NA>
 5. Environmental/experimental conditions: ####<need to add info>
 6. Describe any quality-assurance procedures performed on the data: ####<need to add>
