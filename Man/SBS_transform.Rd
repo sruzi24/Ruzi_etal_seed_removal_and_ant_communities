@@ -39,11 +39,8 @@ Defaults to \code{TRUE}. When \code{TRUE}, will warn the user that x is not a ti
 The output of this function should be assigned to an object and that object used in the analyses for the associated manuscript that this data package is a part of.
 }
 \value{
-%%  ~Describe the value returned
-%%  If it is a LIST, use
-%%  \item{comp1 }{Description of 'comp1'}
-%%  \item{comp2 }{Description of 'comp2'}
-%% ...
+\item{\code{freq} = \code{TRUE}} {returns a vector where the first value is the total number of samples and the following values are counts of the number of traps a species is captured in}
+\item{\code{freq} = \code{FALSE}} {returns a tibble of incidence variables where the ant species are rows and samples are columns}
 }
 \references{
 %% ~put references to the literature/web site here ~
