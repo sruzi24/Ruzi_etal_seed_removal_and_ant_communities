@@ -28,22 +28,22 @@ Raw incidence data of ant species captured in different samples collected from s
     \item{\code{NeiMac}}{a numeric vector - ant species: Neivamyrmex macrodentatus}
     \item{\code{OdoMei}}{a numeric vector - ant species: Odontomachus meinerti}
     \item{\code{OdoBau}}{a numeric vector - ant species: Odontomachus bauri}
-    \item{\code{Nyl001}}{a numeric vector - ant species: Nylanderia sp 1}
+    \item{\code{Nyl001}}{a numeric vector - ant species: Nylanderia sp. 001}
     \item{\code{NylGua}}{a numeric vector - ant species: Nylanderia cf guatemalensis}
     \item{\code{OdoChe}}{a numeric vector - ant species: Odontomachus chelifer}
     \item{\code{CamSer}}{a numeric vector - ant species: Camponotus sericeiventris}
     \item{\code{TecFul}}{a numeric vector - ant species: Technomyrmex fulvus}
-    \item{\code{Pse001}}{a numeric vector - ant species: Pseudomyrmex sp. 1}
+    \item{\code{Pse001}}{a numeric vector - ant species: Pseudomyrmex sp. 001}
     \item{\code{TapMel}}{a numeric vector - ant species: Tapinoma melanocephalum}
     \item{\code{DolBis}}{a numeric vector - ant species: Dolichoderus bispinosus}
-    \item{\code{CamJTL004}}{a numeric vector - ant species: Camponotus cf. JTL-004 sp 1.}
+    \item{\code{CamJTL004}}{a numeric vector - ant species: Camponotus cf. JTL-004 sp 001}
     \item{\code{DolDeb}}{a numeric vector - ant species: Dolichoderus debilis}
     \item{\code{NeoVer}}{a numeric vector - ant species: Neoponera verenae}
     \item{\code{PacImp}}{a numeric vector - ant species: Pachycondyla "impressa" -like}
     \item{\code{MayCon}}{a numeric vector - ant species: Mayaponera constricta}
     \item{\code{PacHar}}{a numeric vector - ant species: Pachycondyla harpax}
     \item{\code{AztXan001}}{a numeric vector - ant species: Azteca cf. xanthochroa sp. 1}
-    \item{\code{AztNig002}}{a numeric vector - ant species: Azteca "cf. nigro" sp. 2}
+    \item{\code{AztNig002}}{a numeric vector - ant species: Azteca "cf. nigro" sp. 002}
     \item{\code{NeoApi}}{a numeric vector - ant species: Neoponera apicalis}
     \item{\code{NeoLae}}{a numeric vector - ant species: Neoponera laevigata}
     \item{\code{PacJTL013}}{a numeric vector - ant species: Pachycondyla JTL-013 Longino ms}
@@ -58,9 +58,9 @@ Raw incidence data of ant species captured in different samples collected from s
     \item{\code{HylDen}}{a numeric vector - ant species: Hylomyrma dentiloba}
     \item{\code{CepUmb}}{a numeric vector - ant species: Cephalotes umbraculatus}
     \item{\code{SerAma}}{a numeric vector - ant species: Sericomyrmex amabilis}
-    \item{\code{Myr002}}{a numeric vector - ant species: Myrmicocrypta sp. 2}
+    \item{\code{Myr002}}{a numeric vector - ant species: Myrmicocrypta sp. 002}
     \item{\code{MycTar}}{a numeric vector - ant species: Mycocepurus tardus}
-    \item{\code{Myr001}}{a numeric vector - ant species: Myrmecocrypta sp. 1}
+    \item{\code{Myr001}}{a numeric vector - ant species: Myrmecocrypta sp. 001}
     \item{\code{CarJTL002}}{a numeric vector - ant species: Carebara cf. JTL-002 eyclemm?}
     \item{\code{CarBre}}{a numeric vector - ant species: Carebara brevipilosa}
     \item{\code{AphAra}}{a numeric vector - ant species: Aphaenogaster araenoides}
@@ -87,12 +87,12 @@ Raw incidence data of ant species captured in different samples collected from s
     \item{\code{CepBas}}{a numeric vector - ant species: Cephalotes basalis}
     \item{\code{CepSet}}{a numeric vector - ant species: Cephalotes setulifer}
     \item{\code{RasArh}}{a numeric vector - ant species: Rasopone arhuaca}
-    \item{\code{MegSp001}}{a numeric vector - ant species: Megalomyrmex sp. 1}
+    \item{\code{MegSp001}}{a numeric vector - ant species: Megalomyrmex sp. 001}
     \item{\code{CarUri}}{a numeric vector - ant species: Carebara urichi}
     \item{\code{WasRoc}}{a numeric vector - ant species: Wasmannia rochai}
     \item{\code{SolCfPic}}{a numeric vector - ant species: Solenopsis cf. picea}
-    \item{\code{SolSp008}}{a numeric vector - ant species: Solenopsis sp. 8}
-    \item{\code{SolSp007}}{a numeric vector - ant species: Solenopsis sp. 7}
+    \item{\code{SolSp008}}{a numeric vector - ant species: Solenopsis sp. 008}
+    \item{\code{SolSp007}}{a numeric vector - ant species: Solenopsis sp. 007}
     \item{\code{SolMolCom}}{a numeric vector - ant species: Solenopsis molesta complex}
     \item{\code{SolCfPyg}}{a numeric vector - ant species: Solenopsis cf. pygmaea}
     \item{\code{SolCfBic}}{a numeric vector - ant species: Solenopsis cf. bicolor}
@@ -101,20 +101,20 @@ Raw incidence data of ant species captured in different samples collected from s
     \item{\code{SolCfCas}}{a numeric vector - ant species: Solenopsis cf. castor}
     \item{\code{SolCfZet}}{a numeric vector - ant species: Solenopsis cf. zeteki}
     \item{\code{SolCfVin}}{a numeric vector - ant species: Solenopsis cf. vinsoni}
-    \item{\code{PheSim}}{a numeric vector - ant species: Pheidole simonsi (morphospecies 7, 11)}
-    \item{\code{PheDas}}{a numeric vector - ant species: Pheidole dasypyx (sp. 8)}
-    \item{\code{Phe091927}}{a numeric vector - ant species: Pheidole sp. 091927)}
+    \item{\code{PheSim}}{a numeric vector - ant species: Pheidole simonsi}
+    \item{\code{PheDas}}{a numeric vector - ant species: Pheidole dasypyx}
+    \item{\code{Phe091927}}{a numeric vector - ant species: Pheidole sp. 009_019_027)}
     \item{\code{PhePug}}{a numeric vector - ant species: Pheidole pugnax}
     \item{\code{PheGlo}}{a numeric vector - ant species: Pheidole glomericeps}
     \item{\code{PheCol}}{a numeric vector - ant species: Pheidole colobopsis}
     \item{\code{PheMul}}{a numeric vector - ant species: Pheidole multispina}
-    \item{\code{Phe011423}}{a numeric vector - ant species: Pheidole sp. 011423}
-    \item{\code{Phe0216}}{a numeric vector - ant species: Pheidole sp. 0216}
-    \item{\code{Phe031}}{a numeric vector - ant species: Pheidole sp. 31}
+    \item{\code{Phe011423}}{a numeric vector - ant species: Pheidole sp. 001_014_023}
+    \item{\code{Phe0216}}{a numeric vector - ant species: Pheidole sp. 002_016}
+    \item{\code{Phe031}}{a numeric vector - ant species: Pheidole sp. 031}
     \item{\code{PheMid}}{a numeric vector - ant species: Pheidole midas}
     \item{\code{PheSen}}{a numeric vector - ant species: Pheidole sensitiva}
     \item{\code{PheCfAvi}}{a numeric vector - ant species: Pheidole cf. avia}
-    \item{\code{Phe015}}{a numeric vector - ant species: Pheidole sp. 15}
+    \item{\code{Phe015}}{a numeric vector - ant species: Pheidole sp. 015}
     \item{\code{PheRug}}{a numeric vector - ant species: Pheidole rugiceps}
     \item{\code{SolTer}}{a numeric vector - ant species: Solenopsis terricola}
     \item{\code{PheZet}}{a numeric vector - ant species: Pheidole zeteki}
@@ -137,6 +137,7 @@ This file is used to generate belowground species accumulation curves, belowgrou
 }
 \examples{
 data(Ruzi_etal_raw_data_belowground)
-## maybe str(Ruzi_etal_raw_data_belowground) ; plot(Ruzi_etal_raw_data_belowground) ...
+## code not run
+## str(Ruzi_etal_raw_data_belowground)
 }
 \keyword{datasets}
