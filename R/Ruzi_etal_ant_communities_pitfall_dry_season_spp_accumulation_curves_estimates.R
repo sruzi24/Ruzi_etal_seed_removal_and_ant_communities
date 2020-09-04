@@ -173,7 +173,23 @@ pit_dry_iNEXT_graph2 <- ggiNEXT(dry_out, type = 1) +
         #legend.position=c(0.10,0.25), # moves the location of the legend
         legend.position="top",
         legend.key=element_blank())
-pit_dry_iNEXT_graph2
+pit_dry_iNEXT_graph2 # to get the legend
+
+pit_dry_iNEXT_graph <- ggiNEXT(dry_out, type = 1) +
+  scale_y_continuous(expand = c(0, 0), breaks=seq(0,55, by=5)) +
+  scale_x_continuous(expand= c(0,0), breaks=seq(0,35, by=5)) + # expand = c(0,0)
+  #scale_color_manual(values = c("red","blue","purple","green")) +
+  theme(panel.grid.minor=element_blank(), #gets rid of grey and lines in the middle
+        panel.grid.major=element_blank(), #gets rid of grey and lines in the middle
+        panel.background=element_rect(fill="white"),#gets rid of grey and lines in the middle
+        panel.border=element_rect(colour="black", fill=NA),
+        #panel.border=element_blank(), #gets rid of square going around the entire graph
+        #axis.line = element_line(colour = 'black', size = 0.5),#sets the axis line size
+        axis.ticks=element_line(colour = 'black', size = 0.5), #sets the tick lines
+        #legend.position=c(0.10,0.25), # moves the location of the legend
+        legend.position="none",
+        legend.key=element_blank())
+pit_dry_iNEXT_graph # without legend
 
 pit_dry_CV_iNEXT_graph <- ggiNEXT(dry_out, type = 2) +
   scale_y_continuous(expand = c(0, 0), breaks=seq(0,1, by=.1)) +
@@ -198,8 +214,11 @@ pit_dry_CV_iNEXT_graph
 ## save the species accumulation curves and sampling coverage outputs ####
 # commented out to not overwrite
 
-#ggsave("Ruzi_etal_FigureS3c.png", width = 8, height = 6,
+#ggsave("Ruzi_etal_FigureS3c_legend.png", width = 8, height = 6,
 #       units = "in", dpi = 300, plot = pit_dry_iNEXT_graph2,
+#       path = figure_path)
+#ggsave("Ruzi_etal_FigureS3c_no_legend.png", width = 8, height = 6,
+#       units = "in", dpi = 300, plot = pit_dry_iNEXT_graph,
 #       path = figure_path)
 #ggsave("Ruzi_etal_FigureS3d.png", width = 8, height = 6,
 #       units = "in", dpi = 300, plot = pit_dry_CV_iNEXT_graph,
