@@ -79,7 +79,7 @@ Frequency data of ant species captured at different sites by season collected us
   }
 }
 \details{
-15-16 pitfall traps were placed within subplots in a site (see Figure S1a in associated manuscript), twice per season. Traps located at the same spot within a site and season were pooled, as the sampilng locations were not independent. Therefore, the sample size of traps per site and per season is 16, for a total of 160 pitfall traps placed.
+15-16 pitfall traps were placed within subplots in a site (see Figure S1a in associated manuscript), twice per season. Traps located at the same spot within a site and season were pooled, as the sampling locations were not independent. Therefore, the sample size of traps per site and per season is 16, for a total of 160 pitfall traps placed.
 This file is used to generate ant species accumulation curves, sampling coverage, and species estimates for ant communities sampled by pitfall traps by site and season. 
 
 }
