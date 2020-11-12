@@ -1,0 +1,36 @@
+Data used in:
+Can variation in seed removal patterns of Neotropical pioneer tree species be explained by local ant community composition?
+Selina A. Ruzi, Paul-Camilo Zalamea, Daniel P. Roche, Rafael Achury, James W. Dalling, and Andrew V. Suarez.
+Published in Biotropica
+The morphological measurements file is intended to document the ant morphological features analyzed and facilitate its reanalysis. This dataset is used to calculate PCA and ANOVAs on the loadings.
+
+1. Number of variables: 27
+2. Number of cases/rows: 22
+3. Variable List: 
+Species: ant species identification
+Sp_ID: the shortened abbreviation for the ant species identification
+Pitfalls_highest_cutoff_met: cutoffs for the percentage of traps collected in at a single site both seasons pooled
+Above_seed_removal: whether foragers of this ant species were collected during timeperiods where ants were observed removing seed(s)
+Experiment: the category that the ant species fall into (ie., common in pitfall traps, observed removing seeds, or both)
+Specimen_ID: in this dataset all "pooled" as it is the aggregated measurments across all the individuals measured
+Num_Individuals: the number of individuals measured for this species
+HW_avg: average of head width measurement
+HL_avg: average of head length measurement
+OW_avg: average of intraocular width measurement
+ML_avg: average of mandible length measurement
+SL_avg: average of scape length measurement
+EW_avg: average of eye width measurement
+EL_avg: average of eye length measurement
+HF_avg: average of hind femur length measurement
+WL_avg: average of Weber's length measurement
+EP_avg: average of eye position. Eye position is calculated as head width minus intraocular width.
+HW_SD:standard deviation of head width measurement
+HL_SD:standard deviation of head length measurement
+OW_SD:standard deviation of intraocular width measurement
+ML_SD:standard deviation of mandible length measurement
+SL_SD:standard deviation of scape length measurement
+EW_SD:standard deviation of eye width measurement
+EL_SD:standard deviation of eye length measurement
+HF_SD:standard deviation of hind femur length measurement
+WL_SD:standard deviation of Weber's length measurement
+EP_SD:standard deviation of eye position

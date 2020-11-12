@@ -11,7 +11,7 @@ Seed removal from Neotropical pioneer tree species placed in petri dish caches a
 \format{
   A data frame with 250 observations on the following 10 variables.
   \describe{
-    \item{\code{Species}}{a character vector - the Neotropical pioneer tree species}
+    \item{\code{Species}}{a character vector - the Neotropical pioneer tree species. \code{ApMe} = Apeiba membranacea, \code{CeLo} = Cecropia longipes, \code{CoVi} = Cochlospermum vitifolium, \code{FiIn} = Ficus insipida, \code{GuUl} = Guazuma ulmifolia, \code{HiAl} = Hieronyma alchorneoides, \code{JaCo} = Jacaranda copaia, \code{LuSe} = Luehea seemannii, \code{OcPy} = Ochroma pyramidale, \code{TrBl} = Trema micrantha "black", \code{TrBr} = Trema micrantha "brown", \code{ZaEk} = Zanthoxylum ekmanii, \code{Glass} = silica beads}
     \item{\code{Dispersion}}{a character vector - primary dispersal mode}
     \item{\code{Season}}{a character vector - the season tested in}
     \item{\code{Plot}}{a character vector - the prexisting site in the forest where caches were placed}
@@ -19,7 +19,7 @@ Seed removal from Neotropical pioneer tree species placed in petri dish caches a
     \item{\code{Total.Seeds.Remaining}}{a numeric vector - the total number of seeds remaining in the petri dish cache after the trial was over}
     \item{\code{Total.Seeds.Removed}}{a numeric vector - the total number of seeds removed at the end of the trial}
     \item{\code{Position}}{a numeric vector - the randomized position along the transect given to the cache}
-    \item{\code{Start.Date}}{a character vector - the date of Day 1 of the trial}
+    \item{\code{Start.Date}}{a character vector - the date of Day 1 of the trial coded as DD.M.YYYY}
     \item{\code{Dormancy}}{a character vector - the type of seed dormancy that the seeds of Neotropical pioneer tree species have}
   }
 }

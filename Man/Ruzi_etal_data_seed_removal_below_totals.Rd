@@ -10,7 +10,7 @@ Seed removal from Neotropical pioneer tree species placed approximatly two centi
 \format{
   A data frame with 140 observations on the following 12 variables.
   \describe{
-    \item{\code{Species}}{a character vector - the Neotropical pioneer tree species}
+    \item{\code{Species}}{a character vector - the Neotropical pioneer tree species. \code{ApMe} = Apeiba membranacea, \code{CeLo} = Cecropia longipes, \code{JaCo} = Jacaranda copaia, \code{OcPy} = Ochroma pyramidale, \code{TrBl} = Trema micrantha "black",  \code{ZaEk} = Zanthoxylum ekmanii, \code{Glass} = silica beads}
     \item{\code{Season}}{a character vector - the season tested in}
     \item{\code{Dispersion}}{a character vector - primary dispersal mode}
     \item{\code{Num.weeks}}{a numeric vector - the number of weeks the seed cache was in the environment for}
