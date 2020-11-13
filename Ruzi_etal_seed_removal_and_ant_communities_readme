@@ -1,7 +1,5 @@
 This Ruzi_etal_seed_removal_and_ant_communities_readme.txt file was generated on 2020-11-12 (YYYY-MM-DD) by Selina A. Ruzi.
 
-####<help text is included in angle brackets, and can be deleted before submission> -- should search for this and remove and helps to show what information still needs to be added
-
 GENERAL INFORMATION
 1. Title of Dataset: Ruzi_etal_seed_removal_and_ant_communities
 2. Author information
@@ -21,11 +19,11 @@ iv. Email: suarez2@illinois.edu
 
 SHARING/ACCESS INFORMATION
 1. Licenses/restrictions placed on the data: CC0 1.0 (CC0 1.0) Public Domain Dedication license (https://creativecommons.org/publicdomain/zero/1.0/)
-2. Links to publications that cite or use the data: ####<will need to be added>####
+2. Links to publications that cite or use the data: Ruzi, S.A., P-C. Zalamea, D.P. Roche, R. Achury, J.W. Dalling, and A.V. Suarez. Can variation in seed removal patterns of Neotropical pioneer tree species be exaplained by local ant community composition? Biotropica.
 3. Links to other publicly accessible locations of the data: https://github.com/sruzi24/Ruzi_etal_seed_removal_and_ant_communities
 4. Links/relationships to ancillary data sets: not applicable
 5. Was data derived from another source? no
-6. Recommended citation for this dataset: Ruzi, S.A., P-C. Zalamea, D.P. Roche, R. Achury, J.W. Dalling, and A.V. Suarez. 2020. Data from: Can variation in seed removal patterns of Neotropical pioneer tree species be exaplained by local ant community composition? Dryad, Dataset, #### need doi ####
+6. Recommended citation for this dataset: Ruzi, S.A., P-C. Zalamea, D.P. Roche, R. Achury, J.W. Dalling, and A.V. Suarez. 2020. Data from: Can variation in seed removal patterns of Neotropical pioneer tree species be exaplained by local ant community composition? Dryad, Dataset.
 
 DATA & FILE OVERVIEW
 1. Folder List:
@@ -43,7 +41,7 @@ ii. When was the file updated? not applicable
 METHODOLOGICAL INFORMATION
 1. Description of the methods used for collection/generation of data: see both of the following papers
 i. Ruzi, S.A., D.P. Roche, P-C. Zalamea, A.C. Robison, and J.W. Dalling. 2017. Species identity influences secondary removal of seeds of Neotropical pioneer tree species. Plant Ecology. 218: 983-995. doi:10.1007/s11258-017-0745-7
-ii. Ruzi, S.A., P-C. Zalamea, D.P. Roche, R. Achury, J.W. Dalling, and A.V. Suarez. ####2020####. Can variation in seed removal patterns of Neotropical pioneer tree species be exaplained by local ant community composition? Biotropica. #### accepted ####
+ii. Ruzi, S.A., P-C. Zalamea, D.P. Roche, R. Achury, J.W. Dalling, and A.V. Suarez. Can variation in seed removal patterns of Neotropical pioneer tree species be exaplained by local ant community composition? Biotropica.
 2. Instrument- or software-specific information needed to interpret the data: 
 a. Software: RStudio (Version 1.2.5019), R (version 3.6.1, R Core Team 2019)
 b. Packages: iNext (version 2.0.19, Chao et al. 2014; Hsieh et al. 2016; Hsieh et al. 2019), SpadeR (version 0.1.1, Chao et al. 2016; installed from GitHub - install_github('AnneChao/SpadeR')), vegan (version 2.5-6, Oksanen et al. 2019), pls (version 2.7-2, Mevik et al. 2019), cluster (version 2.1.0, Maechler et al. 2019), ggplot2 (version 3.2.1, Wickham 2016), ggdendro (version 0.1-20, de Vries & Ripley 2016), dendextend (version 1.13.2, Galili 2015), tidyverse (version 1.3.0, Wickham et al. 2019), here (version 0.1, Müller 2017)
