@@ -25,7 +25,7 @@ SHARING/ACCESS INFORMATION
 5. Was data derived from another source? no
 6. Recommended citation for this dataset: Ruzi, S.A., P-C. Zalamea, D.P. Roche, R. Achury, J.W. Dalling, and A.V. Suarez. 2020. Data from: Can variation in seed removal patterns of Neotropical pioneer tree species be exaplained by local ant community composition? Dryad, Dataset.
 
-DATA & FILE OVERVIEW
+DATA & FILE OVERVIEW FOR THE ASSOCIATED GITHUB R PROJECT
 1. Folder List:
 a. data - holds the "raw_data" folder and "rdata" folder. The "raw_data" folder consists of the "csv" folder which holds all the csv raw data files used in the analyses. The "rdata" folder holds specific analyses such as NMDS or PCA results generated from R scripts. 
 b. figs - holds the figures generated from R scripts that are presented in the either the manuscript main text or supplementary files.
@@ -49,4 +49,4 @@ b. Packages: iNext (version 2.0.19, Chao et al. 2014; Hsieh et al. 2016; Hsieh e
 4. Describe any quality-assurance procedures performed on the data: Sample coverage of the ant communities captured at each site were evaluated using the iNEXT package in R and ant species identifications were conducted by Rafael Achury with Pheidole checked by Jack Longino.
 5. People involved with sample collection, processing, analysis and/or submission: Selina A. Ruzi (SAR), Paul-Camilo Zalamea (PCZ), Daniel P. Roche (DPR), and Abigail C. Robison (ACR) were involved in sample collection. SAR, DPR, ACR, and Rafael Achury (RA) were involved in sample processing. SAR and RA were involved in data analysis. SAR is responsible for dataset submission to repository.
 
-DATA-SPECIFIC INFORMATION FOR: see additional README files for each dataset provided in the "Man" folder
+DATA-SPECIFIC INFORMATION FOR: see additional README files for each dataset (in the R project on github they are located in the "Man" folder)
